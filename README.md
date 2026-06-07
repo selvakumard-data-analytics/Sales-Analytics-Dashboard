@@ -23,4 +23,4 @@ This project analyzes sales data using Python, Pandas and Matplotlib.
 - Category Sales Chart
 
 ## Author
-Selva Kumar
+Selvakumar D
